@@ -1,0 +1,202 @@
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+  font-size: 40px;
+  padding-right: 190px;
+  color: white;
+}
+
+.logo img {
+  margin-right: 495px;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    text-align: center;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  font-size: 17px;
+  background-color: #171717;
+  height: 60px;
+  justify-content: end;
+}
+
+.nave a {
+  text-decoration: none;
+  color: white;
+  padding-right: 10px;
+}
+
+footer {
+  height: 160px;
+  background: black;
+  margin-top: 200px;
+}
+footer .abajo {
+  color: white;
+  text-align: center;
+}
+.abajo p {
+  padding-left: 460px;
+  padding-bottom: 30px;
+  width: 900px;
+}
+.abajo h2 {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.abajo p {
+  text-align: center;
+  text-anchor: middle;
+}
+section.Sec2 {
+  padding-top: 50px;
+}
+
+#VideoMain {
+  width: 90%;
+  height: 100%;
+  z-index: -1;
+  padding-right: 100px;
+  padding-left: 10%;
+  scroll-padding-top: 20px;
+}
+
+.Sec1 {
+  background-image: url(Imagen/1322753.jpeg);
+  background-repeat: no-repeat;
+  color: white;
+}
+
+.Sec2 {
+  display: flex;
+  justify-content: space-between;
+}
+.fila {
+  flex-basis: 30%;
+  max-width: 32%;
+}
+.fila img {
+  width: 250px;
+  height: 200px;
+}
+.fila h5 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.alguno {
+  padding-top: 50px;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+header {
+  color: white;
+  text-align: center;
+}
+
+.contento {
+  background-color: white;
+  padding: 2rem;
+  margin: 0 auto;
+  max-width: 700px;
+  height: 450px;
+  color: white;
+}
+
+footer {
+  color: white;
+  text-align: center;
+  height: 160px;
+  background: black;
+  margin-top: 200px;
+}
+
+.content {
+  display: flex;
+  background-color: #8b0000;
+  padding: 2rem;
+  margin: 0 auto;
+  max-width: 600px;
+  height: 450px;
+  color: white;
+}
+.regis {
+  background-image: url(Imagen/fondoregis.jpg);
+  background-repeat: no-repeat;
+}
+
+.space {
+  margin-bottom: 80px;
+}
+
+footer {
+  height: 160px;
+  background: black;
+  margin-top: 70px;
+}
+
+footer .abajo {
+  color: white;
+  text-align: center;
+}
+.abajo p {
+  padding-left: 460px;
+  padding-bottom: 30px;
+  width: 900px;
+}
+.abajo h2 {
+  text-align: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.abajo p {
+  text-align: center;
+  text-anchor: middle;
+}
+
+form {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+input[type="email"] {
+    padding: 10px;
+    width: 300px;
+    border: 2px solid black;
+    display: flex;
+}
+
+button {
+    background-color: #333;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+.textocont{
+ color: #171717;
+ display: flex;
+}
